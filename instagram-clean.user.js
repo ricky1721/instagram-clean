@@ -17,9 +17,9 @@
     // EDIT HERE, then reinstall the file and reload Instagram. No build needed.
     const CONFIG = {
         blockReels: true,
-        blockExplore: true,
+        blockExplore: false,
         removeSuggestedPosts: false,
-        removeSuggestedAccounts: false,
+        removeSuggestedAccounts: true,
         removeStories: false,
         feedPostLimit: null,
         debug: false,
